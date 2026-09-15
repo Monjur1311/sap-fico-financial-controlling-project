@@ -1,0 +1,4 @@
+profit_center,profit_center_name,controlling_area,responsibility
+PC100,Consulting,RT01,Consulting services and advisory business
+PC200,Software,RT01,Software implementation and solutions
+PC300,Support,RT01,Technical support and maintenance services

@@ -1,0 +1,4 @@
+profit_center,profit_center_name,revenue,allocated_cost,operating_profit,operating_margin_pct,profit_contribution_pct
+PC100,Consulting,35000,25200.0,9800.0,28.000000000000004,21.0752688172043
+PC200,Software,50000,23700.0,26300.0,52.6,56.55913978494623
+PC300,Support,20000,9600.0,10400.0,52.0,22.365591397849464

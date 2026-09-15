@@ -1,0 +1,10 @@
+gl_account,account_name,expense_amount,profit_center,allocation_pct,allocation_basis,allocated_cost
+500000,Salary Expense,40000,PC100,40,Management allocation,16000.0
+500000,Salary Expense,40000,PC200,40,Management allocation,16000.0
+500000,Salary Expense,40000,PC300,20,Management allocation,8000.0
+510000,Rent Expense,8000,PC100,40,Management allocation,3200.0
+510000,Rent Expense,8000,PC200,40,Management allocation,3200.0
+510000,Rent Expense,8000,PC300,20,Management allocation,1600.0
+520000,Software Subscription Expense,4000,PC200,100,Direct assignment,4000.0
+530000,Marketing Expense,6000,PC100,100,Direct assignment,6000.0
+570000,Depreciation Expense,500,PC200,100,Direct assignment,500.0
