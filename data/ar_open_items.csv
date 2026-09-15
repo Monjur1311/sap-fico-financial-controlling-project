@@ -1,0 +1,4 @@
+invoice_document,customer_id,invoice_date,due_date,invoice_amount,paid_amount,clearing_document,clearing_date,status
+100004,C1000,2026-01-10,2026-02-09,41650,41650,100010,2026-01-25,Cleared
+100005,C2000,2026-01-12,2026-02-11,59500,0,,,Open
+100006,C3000,2026-01-15,2026-01-29,23800,0,,,Open

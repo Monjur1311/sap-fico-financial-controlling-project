@@ -1,0 +1,4 @@
+customer_id,customer_name,industry,country,city,payment_terms_days,credit_limit,risk_class,reconciliation_account
+C1000,Alpha Consulting AG,Professional Services,DE,Frankfurt,30,75000,Low,110000
+C2000,Nova Digital GmbH,Technology,DE,Munich,30,100000,Low,110000
+C3000,WestBridge Services GmbH,Business Services,DE,Cologne,14,40000,Medium,110000
