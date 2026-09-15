@@ -1,0 +1,5 @@
+vendor_id,vendor_name,vendor_type,country,city,payment_terms_days,reconciliation_account
+V1000,RheinOffice Immobilien GmbH,Property Services,DE,Düsseldorf,14,200000
+V2000,CloudStack Software GmbH,Software Supplier,DE,Berlin,14,200000
+V3000,TechSource GmbH,IT Equipment Supplier,DE,Cologne,30,200000
+V4000,MarketBoost GmbH,Marketing Services,DE,Hamburg,30,200000

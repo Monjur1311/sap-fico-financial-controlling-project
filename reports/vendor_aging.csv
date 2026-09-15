@@ -1,0 +1,4 @@
+vendor_id,vendor_name,invoice_document,invoice_date,due_date,outstanding_amount,days_overdue,aging_bucket
+V2000,CloudStack Software GmbH,100003,2026-01-08,2026-01-22,4760,37,31-60 Days
+V3000,TechSource GmbH,100008,2026-01-22,2026-02-21,14280,7,1-30 Days
+V4000,MarketBoost GmbH,100009,2026-01-24,2026-02-23,7140,5,1-30 Days
