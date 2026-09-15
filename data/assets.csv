@@ -1,0 +1,2 @@
+asset_id,asset_name,asset_class,acquisition_date,acquisition_cost,useful_life_months,depreciation_method,cost_center,profit_center,asset_gl_account,accumulated_depreciation_account,depreciation_expense_account
+A1000,IT Equipment,IT Equipment,2026-01-22,12000,24,Straight-Line,CC3000,PC200,150000,159000,570000
