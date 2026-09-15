@@ -1,0 +1,9 @@
+gl_account,account_name,amount
+400000,Consulting Revenue,35000
+410000,Software Revenue,50000
+420000,Support Revenue,20000
+500000,Salary Expense,40000
+510000,Rent Expense,8000
+520000,Software Subscription Expense,4000
+530000,Marketing Expense,6000
+570000,Depreciation Expense,500

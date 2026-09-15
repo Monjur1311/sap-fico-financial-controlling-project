@@ -1,0 +1,17 @@
+gl_account,account_name,total_debit,total_credit,net_balance,debit_balance,credit_balance
+100000,Bank Account,141650,49520,92130,92130,0
+110000,Accounts Receivable,124950,41650,83300,83300,0
+120000,Input VAT 19%,5700,0,5700,5700,0
+150000,Office & IT Equipment,12000,0,12000,12000,0
+159000,Accumulated Depreciation,0,500,-500,0,500
+200000,Accounts Payable,9520,35700,-26180,0,26180
+210000,Output VAT 19%,0,19950,-19950,0,19950
+300000,Share Capital,0,100000,-100000,0,100000
+400000,Consulting Revenue,0,35000,-35000,0,35000
+410000,Software Revenue,0,50000,-50000,0,50000
+420000,Support Revenue,0,20000,-20000,0,20000
+500000,Salary Expense,40000,0,40000,40000,0
+510000,Rent Expense,8000,0,8000,8000,0
+520000,Software Subscription Expense,4000,0,4000,4000,0
+530000,Marketing Expense,6000,0,6000,6000,0
+570000,Depreciation Expense,500,0,500,500,0

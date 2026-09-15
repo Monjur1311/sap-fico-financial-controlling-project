@@ -1,0 +1,14 @@
+category,account,amount
+Asset,Bank Account,92130
+Asset,Accounts Receivable,83300
+Asset,Input VAT,5700
+Asset,Prepaid Expenses,0
+Asset,Office & IT Equipment,12000
+Contra Asset,Accumulated Depreciation,-500
+Liability,Accounts Payable,26180
+Liability,Output VAT,19950
+Liability,Payroll Liabilities,0
+Liability,Accrued Expenses,0
+Equity,Share Capital,100000
+Equity,Retained Earnings,0
+Equity,Current Period Profit,46500
