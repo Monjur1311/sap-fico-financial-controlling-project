@@ -1,0 +1,32 @@
+document_no,posting_date,document_type,line_no,gl_account,account_name,debit,credit,cost_center,profit_center,description
+100001,2026-01-01,SA,1,100000,Bank Account,100000,0,,,Initial capital contribution
+100001,2026-01-01,SA,2,300000,Share Capital,0,100000,,,Initial capital contribution
+100002,2026-01-05,KR,1,510000,Rent Expense,8000,0,CC5000,,Office rent invoice
+100002,2026-01-05,KR,2,120000,Input VAT 19%,1520,0,,,Input VAT on rent
+100002,2026-01-05,KR,3,200000,Accounts Payable,0,9520,,,Office rent invoice
+100003,2026-01-08,KR,1,520000,Software Subscription Expense,4000,0,CC3000,,Annual software subscription
+100003,2026-01-08,KR,2,120000,Input VAT 19%,760,0,,,Input VAT
+100003,2026-01-08,KR,3,200000,Accounts Payable,0,4760,,,Software vendor liability
+100004,2026-01-10,DR,1,110000,Accounts Receivable,41650,0,,,Consulting customer invoice
+100004,2026-01-10,DR,2,400000,Consulting Revenue,0,35000,,PC100,Consulting revenue
+100004,2026-01-10,DR,3,210000,Output VAT 19%,0,6650,,,Output VAT
+100005,2026-01-12,DR,1,110000,Accounts Receivable,59500,0,,,Software customer invoice
+100005,2026-01-12,DR,2,410000,Software Revenue,0,50000,,PC200,Software revenue
+100005,2026-01-12,DR,3,210000,Output VAT 19%,0,9500,,,Output VAT
+100006,2026-01-15,DR,1,110000,Accounts Receivable,23800,0,,,Support customer invoice
+100006,2026-01-15,DR,2,420000,Support Revenue,0,20000,,PC300,Support revenue
+100006,2026-01-15,DR,3,210000,Output VAT 19%,0,3800,,,Output VAT
+100007,2026-01-20,SA,1,500000,Salary Expense,40000,0,CC4000,,Monthly salaries
+100007,2026-01-20,SA,2,100000,Bank Account,0,40000,,,Salary payment
+100008,2026-01-22,KR,1,150000,Office & IT Equipment,12000,0,CC3000,,IT equipment acquisition
+100008,2026-01-22,KR,2,120000,Input VAT 19%,2280,0,,,Input VAT
+100008,2026-01-22,KR,3,200000,Accounts Payable,0,14280,,,Equipment vendor liability
+100009,2026-01-24,KR,1,530000,Marketing Expense,6000,0,CC2000,,Marketing campaign
+100009,2026-01-24,KR,2,120000,Input VAT 19%,1140,0,,,Input VAT
+100009,2026-01-24,KR,3,200000,Accounts Payable,0,7140,,,Marketing vendor liability
+100010,2026-01-25,DZ,1,100000,Bank Account,41650,0,,,Customer payment received
+100010,2026-01-25,DZ,2,110000,Accounts Receivable,0,41650,,,Clear consulting receivable
+100011,2026-01-27,KZ,1,200000,Accounts Payable,9520,0,,,Rent vendor payment
+100011,2026-01-27,KZ,2,100000,Bank Account,0,9520,,,Rent vendor payment
+100012,2026-01-31,AA,1,570000,Depreciation Expense,500,0,CC3000,,Monthly depreciation
+100012,2026-01-31,AA,2,159000,Accumulated Depreciation,0,500,,,Monthly depreciation
