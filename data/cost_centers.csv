@@ -1,0 +1,6 @@
+cost_center,cost_center_name,department,controlling_area,responsibility
+CC1000,Finance,Finance,RT01,Financial reporting and administration
+CC2000,Sales,Sales,RT01,Sales and marketing activities
+CC3000,IT,Information Technology,RT01,Technology infrastructure and systems
+CC4000,Human Resources,Human Resources,RT01,Employee and recruitment administration
+CC5000,Operations,Operations,RT01,General operating activities

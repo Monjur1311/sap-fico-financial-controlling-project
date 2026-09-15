@@ -1,0 +1,6 @@
+cost_center,cost_center_name,budget_amount,actual_cost,variance,variance_pct,share_of_total_cost_pct,status
+CC1000,Finance,7000,0.0,-7000.0,-100.0,0.0,Favorable / On Budget
+CC2000,Sales,7000,6000.0,-1000.0,-14.285714285714285,10.256410256410255,Favorable / On Budget
+CC3000,IT,6000,4500.0,-1500.0,-25.0,7.6923076923076925,Favorable / On Budget
+CC4000,Human Resources,45000,40000.0,-5000.0,-11.11111111111111,68.37606837606837,Favorable / On Budget
+CC5000,Operations,10000,8000.0,-2000.0,-20.0,13.675213675213676,Favorable / On Budget
